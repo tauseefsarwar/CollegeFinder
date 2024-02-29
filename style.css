@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1{
+    margin: 20px 5px;
+}
+
+input , button{
+    padding: 5px;
+    margin: 15px 5px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background: rgb(74, 74, 248);
+}
+
+li{
+    list-style-type: none;
+}
